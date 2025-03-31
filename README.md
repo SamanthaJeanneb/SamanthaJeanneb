@@ -25,8 +25,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" width="60%" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" width="55%" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" width="35%" />
 </p>
 
 
