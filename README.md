@@ -23,16 +23,12 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 </p>
 
----
-
-## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" width="60%" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
 
----
 
 ## Tech Stack & Skill Levels
 
