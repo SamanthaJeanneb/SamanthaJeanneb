@@ -16,13 +16,18 @@
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
-
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" width="100%" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" width="100%" />
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🌟 Tech Stack & Skill Levels
