@@ -1,14 +1,15 @@
 <h1 align="center">Hi there 👋, I'm Samantha Brown</h1>
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI</h3>
 
+GitHub Stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" /> </p>
 ---
 
 🌟 **Tech Stack & Skill Levels**
 
 ```yaml
-GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical" alt="Samantha's GitHub stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" /> </p>
 Frontend:
   - React ⚛️ (Advanced)
   - JavaScript 🟨 (Advanced)
