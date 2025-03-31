@@ -25,7 +25,7 @@
 
 ---
 
-## 🌟 Tech Stack & Skill Levels
+## Tech Stack & Skill Levels
 
 ```yaml
 Frontend:
@@ -44,6 +44,18 @@ Database:
   - MySQL 🗃️ (Proficient)
 
 Tools:
-  - Git & GitHub 🛠️
+  - Git & GitHub 🛠
   - Docker 🐳
-  - VSCode / IntelliJ / CLion 💻
+  - VSCode / IntelliJ / CLion
+```
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:samanthajeanneb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
