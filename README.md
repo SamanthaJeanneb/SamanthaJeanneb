@@ -2,6 +2,15 @@
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#f7797d">Samantha Brown</span></h1>
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  &nbsp;
+  <a href="mailto:samanthajeanneb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=black" />
@@ -48,14 +57,3 @@ Tools:
   - Docker 🐳
   - VSCode / IntelliJ / CLion
 ```
-## Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  &nbsp;
-  <a href="mailto:samanthajeanneb@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
