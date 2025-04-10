@@ -30,23 +30,24 @@
 </p>
 
 
-## Tech Stack & Skill Levels
+## Tech Stack
 
 ```yaml
 Frontend:
-  - React ⚛️ (Advanced)
-  - JavaScript 🟨 (Advanced)
-  - HTML/CSS 🎨 (Advanced)
+  - React ⚛
+  - JavaScript  
+  - HTML/CSS  
 
 Backend:
-  - Spring Boot ☕ (Intermediate)
-  - Java 🧩 (Advanced)
-  - Python 🐍 (Intermediate)
-  - C++ 💡 (Intermediate)
-  - C# 🎯 (Beginner-Intermediate)
+  - Spring Boot ☕
+  - Java 
+  - Python 
+  - C++
+  - C# 
 
 Database:
-  - MySQL 🗃️ (Proficient)
+  - MySQL
+  - MongoDB
 
 Tools:
   - Git & GitHub 🛠
