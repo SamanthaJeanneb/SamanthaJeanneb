@@ -1,7 +1,6 @@
-<!-- README.md -->
-
 <h1 align="center">Hi there 👋, I'm <span style="color:#f7797d">Samantha Brown</span></h1>
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -23,34 +22,42 @@
   <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
 </p>
 
-
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical&hide_rank=true" alt="Samantha's GitHub stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical&hide_rank=true" alt="Samantha's GitHub stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" width="45.5%" />
 </p>
 
+---
 
 ## Tech Stack
 
-```yaml
-Frontend:
-  - React ⚛
-  - JavaScript  
-  - HTML/CSS  
+<table>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>React, JavaScript, HTML, CSS</td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>Java (Spring Boot), Python, C++, C#</td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td>MySQL, MongoDB</td>
+  </tr>
+  <tr>
+    <td><b>Tools</b></td>
+    <td>Git, GitHub, Docker, VS Code, IntelliJ, CLion</td>
+  </tr>
+</table>
 
-Backend:
-  - Spring Boot ☕
-  - Java 
-  - Python 
-  - C++
-  - C# 
+---
 
-Database:
-  - MySQL
-  - MongoDB
+## Now
 
-Tools:
-  - Git & GitHub 🛠
-  - Docker 🐳
-  - VSCode / IntelliJ / CLion
-```
+- Building: an interactive map dashboard for Beardsley Architects  
+- Exploring: frontend architecture patterns and design systems  
+- Learning: Supabase and deployment best practices  
+
+---
+
+Let me know if you want a "Projects" grid or animated skills bar section next—those can look very slick too without going overboard.
