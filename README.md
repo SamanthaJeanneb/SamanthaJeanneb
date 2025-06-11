@@ -54,10 +54,6 @@
 
 ## Now
 
-- Building: an interactive map dashboard for Beardsley Architects  
-- Exploring: frontend architecture patterns and design systems  
-- Learning: Supabase and deployment best practices  
+- Building: an interactive map dashboard for Beardsley Architects and Engineers
+- Learning: Golang, Rust, Angular :D
 
----
-
-Let me know if you want a "Projects" grid or animated skills bar section next—those can look very slick too without going overboard.
