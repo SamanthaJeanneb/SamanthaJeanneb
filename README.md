@@ -29,11 +29,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samanthajeanneb" alt="samanthajeanneb" /></a> </p>
 
-- 🌱 I’m currently learning **Golang, Ruby, Angular :D**
+I’m currently learning **Golang, Ruby, Angular :D**
 
-- 👨‍💻 All of my projects are available at [https://samantha-jeanne-b-portfolio.vercel.app/](https://samantha-jeanne-b-portfolio.vercel.app/)
-
-- 📄 Know about my experiences [https://samantha-jeanne-b-portfolio.vercel.app/](https://samantha-jeanne-b-portfolio.vercel.app/)
+- Find my resume and projects [https://samantha-jeanne-b-portfolio.vercel.app/](https://samantha-jeanne-b-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
