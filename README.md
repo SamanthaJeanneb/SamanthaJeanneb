@@ -31,7 +31,7 @@
 
 I’m currently learning **Golang, Ruby, Angular :D**
 
-- Find my resume and projects [https://samantha-jeanne-b-portfolio.vercel.app/](https://samantha-jeanne-b-portfolio.vercel.app/)
+- Find my resume and projects [https://samanthajeanneb.com/](https://samantha-jeanne-b-portfolio.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
