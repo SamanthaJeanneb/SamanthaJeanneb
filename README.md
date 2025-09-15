@@ -32,6 +32,8 @@
 I’m currently learning **Golang, Ruby, Angular :D**
 
 - Find my resume and projects [https://samanthajeanneb.com/](https://samanthajeanneb.com/)
+- I've made a bunch of cool hackathon projects, check them out! [Devpost]([https://samanthajeanneb.com](https://devpost.com/Samanthajeanneb?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
