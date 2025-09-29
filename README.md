@@ -110,9 +110,6 @@
   <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea&logoColor=white" />
 </p>
 
----
-
-## GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=samanthajeanneb&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Stats" />
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samanthajeanneb&layout=compact&theme=radical" alt="Top Languages" />
@@ -128,14 +125,10 @@
   </a>
 </p>
 
----
-
-## Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=samanthajeanneb&theme=gruvbox&no-frame=true&margin-w=10&row=1" alt="trophy" />
 </p>
 
----
 
 ## Contribution Graph
 <p align="center">
