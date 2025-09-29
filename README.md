@@ -1,6 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub!;I'm+Samantha+Brown;Full+Stack+Developer+%7C+Interaction+Designer;Hackathon+Enthusiast)](https://git.io/typing-svg)
-
-<h4 align="center">- Samantha Brown -</h4>
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
 
 <div align="center">
