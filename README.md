@@ -2,8 +2,7 @@
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50px" alt="animated laptop coding" />
-</div>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="80"></div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
