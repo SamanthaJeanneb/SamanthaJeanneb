@@ -4,7 +4,7 @@
 <h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80px" alt="animated laptop coding" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="50px" alt="animated laptop coding" />
 </div>
 
 <p align="center">
@@ -16,8 +16,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=samanthajeanneb&label=Profile%20views&color=0e75b6&style=flat" alt="samanthajeanneb" />
 </p>
-
----
 
 ## Hackathon Highlights
 <ul>
