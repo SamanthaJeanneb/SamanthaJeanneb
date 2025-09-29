@@ -22,9 +22,8 @@
 ## Hackathon Highlights
 <ul>
   <li><strong><a href="https://devpost.com/software/bear-escape">Bear Escape — Cornell</a></strong> — Winner, UI Design • Winner, Best Use of Gemini</li>
-  <li><strong><a href="https://devpost.com/software/airwaves">AirWaves — Bitcamp (University of Maryland)</a></strong> — Winner, Best Gamify Hack</li>
-  <li><strong>HopHacks (Johns Hopkins)</strong> — Third Place Overall • Awarded in Spacetime DB / Gaming Track</li>
-  <li><strong>BigRed//Hacks (Cornell)</strong> — Multiple Track Wins & Top Placements</li>
+  <li><strong><a href="https://devpost.com/software/airwaves-342g1j">AirWaves — Bitcamp (University of Maryland)</a></strong> — Winner, Best Gamify Hack</li>
+  <li><strong><a href="https://devpost.com/software/beatboxing">HopHacks (Johns Hopkins)</strong> — Third Place Overall • Awarded in Spacetime DB / Gaming Track</li>
   <li><strong><a href="https://devpost.com/software/echochambers">EchoChambers — Bolt.new AI Hackathon</a></strong></li>
 </ul>
 
