@@ -160,7 +160,7 @@
 ## Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank">
-    <img src="https://user-images.githubusercontent.com/74038190/235294002-8aafea24-3179-45af-91d9-412ad7ff5359.gif" width="60" alt="LinkedIn animated"/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="60">
   </a>
   <a href="mailto:samanthajeanneb@gmail.com">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="60" alt="Gmail animated"/>
@@ -169,3 +169,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" width="60" alt="Portfolio animated"/>
   </a>
 </p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</p>
+
