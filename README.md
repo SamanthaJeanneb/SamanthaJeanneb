@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=6A5ACD\&size=35\&center=true\&vCenter=true\&width=1000\&lines=Welcome+to+my+GitHub!;I'm+Samantha+Brown;Full+Stack+Developer+%7C+Interaction+Designer;Hackathon+Enthusiast)](https://git.io/typing-svg)
 
-<h3 align="center">Full Stack Developer | Interaction Designer | CS + HCI Enthusiast</h3>
+<h3 align="center">Hackathon enthusiast | Development Relations | CS + HCI </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/samanthajeanneb" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
